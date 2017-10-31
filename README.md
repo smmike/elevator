@@ -9,4 +9,4 @@ The following assumptions are used here:
 * Passengers can request any floor that is serviced by the elevator when they enter it.
 * Initial version doesn't consider load limits
 
-The goal is to create working solution that can be easily demonstrated. A console output will be used as for demonstration purposes, to show the sequence in which passengers requests are served.
+The goal is to create working solution that can be easily demonstrated. A console output will be used for demonstration purposes, to show the sequence in which passengers requests are served.
